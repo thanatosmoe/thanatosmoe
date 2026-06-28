@@ -23,9 +23,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # 你的 github 用户名
           github_user_name: thanatosmoe
-          # 生成的文件名及路径（包含适配亮/暗主题的文件）
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -33,7 +31,6 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # 推送到 output 分支，README 里的图片正是从此分支读取
           target_branch: output
           build_dir: dist
         env:

@@ -4,7 +4,7 @@ name: Generate Snake
 on:
   schedule:
     # 每 12 小时自动运行一次生成最新的贪吃蛇
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   
   # 允许手动在 Actions 页面触发
   workflow_dispatch:
@@ -24,6 +24,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: thanatosmoe
+          hide_metadata: true
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

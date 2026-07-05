@@ -13,14 +13,15 @@
 ### 👨‍💻 About Me
 
 - 🌱 I'm currently learning **AI agent and Rust**
-- 📝 Read my articles on my [Personal Blog](https://thanatosmoe.github.io)
+- 📝 Read my articles on my [Personal Blog](https://blog.thanatos73.top)
 - 📫 How to reach me: **thanatosmoe@gmail.com**
 
 ---
-### 📊 GitHub Stats
+
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanatosmoe&show_icons=true&hide_border=false" alt="Thanatos's GitHub stats" />
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 ---

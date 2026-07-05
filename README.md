@@ -9,25 +9,22 @@
 </p>
 
 ---
+(:зゝ∠)
 
-### 👨‍💻 About Me
-
-- 🌱 I'm currently learning **AI agent and Rust**
-- 📝 Read my articles on my [Personal Blog](https://blog.thanatos73.top)
-- 📫 How to reach me: **thanatosmoe@gmail.com**
+- I'm currently learning **AI agent and Rust**
+- Read my articles on my [Personal Blog](https://blog.thanatos73.top)
+- How to reach me: **thanatosmoe@gmail.com**
 
 ---
-
-### 📊 GitHub Metrics
-
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanatosmoe/thanatosmoe/output/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanatosmoe/thanatosmoe/output/github-metrics.svg">
+    <img alt="Metrics" src="https://raw.githubusercontent.com/thanatosmoe/thanatosmoe/output/github-metrics.svg" width="60%">
+  </picture>
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanatosmoe/thanatosmoe/output/github-contribution-grid-snake-dark.svg">

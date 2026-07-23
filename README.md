@@ -14,7 +14,6 @@
 - I'm currently learning **AI agent and Rust**
 - Read my articles on my [Personal Blog](https://blog.thanatos73.top)
 - How to reach me: **thanatosmoe@gmail.com**
----
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanatosmoe/thanatosmoe/output/github-contribution-grid-snake-dark.svg">

@@ -12,7 +12,7 @@
   (:зゝ∠)
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1749061746122410107/4BA1152B5AF9435756EC14B639036329AE8DC44A/" height="120" align="right" alt="生徒会の一存" title="生徒会の一存" />
 - I'm currently learning **AI agent and Rust**
-- Read my articles on my [Personal Blog](https://blog.thanatos73.top)
+- Read my articles on my [Personal Blog](https://blog.thanatos.icu)
 - How to reach me: **thanatosmoe@gmail.com**
 <p align="center">
   <picture>
